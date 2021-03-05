@@ -1,9 +1,9 @@
 # A writeup on Secret Place from cybertalents, Marathon CTF.
 
-- Challenge Name: Secret Place
-- Level: Easy
-- Points: 50
-- Category: Malware Reverse Engineering
+- Challenge Name: `Secret Place`
+- Level: `Easy`
+- Points: `50`
+- Category: `Malware Reverse Engineering`
 
 ## Challenge Descreption
 >> There is a secret place in every executable.
