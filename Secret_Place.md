@@ -15,7 +15,7 @@ This one was pretty simple, Everytime i see a reverse engineering challenge i us
 `strings SecretPlace.exe`
 
 I found a base64 encoded text `ZmxhZ3sweEFMV0FZU19DSEVDS19ZT1VSX0VNQkVEREVEX1JFU09VUkNFU30=`
-So i decoded i `flag{0xALWAYS_CHECK_YOUR_EMBEDDED_RESOURCES}`
+So i decoded it `flag{0xALWAYS_CHECK_YOUR_EMBEDDED_RESOURCES}`
 
 ## Flag
 `flag{0xALWAYS_CHECK_YOUR_EMBEDDED_RESOURCES}`
