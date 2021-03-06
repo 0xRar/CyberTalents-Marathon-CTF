@@ -16,6 +16,7 @@ This one was pretty simple, Everytime i see a reverse engineering challenge i us
 
 I found a base64 encoded text `ZmxhZ3sweEFMV0FZU19DSEVDS19ZT1VSX0VNQkVEREVEX1JFU09VUkNFU30=`
 So i decoded it `flag{0xALWAYS_CHECK_YOUR_EMBEDDED_RESOURCES}`
+https://www.base64decode.org/
 
 ## Flag
 `flag{0xALWAYS_CHECK_YOUR_EMBEDDED_RESOURCES}`
