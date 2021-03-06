@@ -1,9 +1,9 @@
 # A writeup on Dragon from cybertalents, Marathon CTF.
 
-Challenge Name: `Dragon`
-Level: `Basic`
-Points: `25`
-Category: `General Information`
+- Challenge Name: `Dragon`
+- Level: `Basic`
+- Points: `25`
+- Category: `General Information`
 
 
 ## Challenge Descreption
