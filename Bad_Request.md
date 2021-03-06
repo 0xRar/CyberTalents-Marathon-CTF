@@ -30,4 +30,4 @@ Payload: `Imdvb2RieWUiOiAhIXB5dGhvbi9vYmplY3QvYXBwbHk6b3Muc3lzdGVtIFsid2dldCBodH
 
 Flag:`FLAG{aa330d7755f14d398cbfef715bbf36f59a8cfae5}`
 
-Credits to "ItsFadinG" for helping me, and to the creator of the challenge.
+Credits to "ItsFadinG" for helping me solve this challenge.
