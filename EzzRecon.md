@@ -5,7 +5,7 @@
 - Points: `50`
 - Category: `Web Security`
 
-## Challenge Descreption
+## Challenge Description
 >> Before thinking about the bugs , you should think where to find it.
 
 
