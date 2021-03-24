@@ -6,7 +6,7 @@
 - Category: `General Information`
 
 
-## Challenge Descreption
+## Challenge Description
 >> Free and open source reverse engineering tool developed by the National Security Agency.
 
 ## Solution
