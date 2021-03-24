@@ -27,7 +27,9 @@ The only thing we can run with in this request is this base64 encoded string.
 
 ## Solution
 As we can see its a base64 but when we decode it we get this XOR hex `083/079/330/074`,
-lets decode it and get our flag,
+lets decode it with CyberChef and get our flag,
+
+CyberChef: `https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true)XOR(%7B'option':'Hex','string':'1'%7D,'Standard',false)`
 
 ![image](https://user-images.githubusercontent.com/33517160/112261387-d4442080-8c7c-11eb-968b-890efdb1294c.png)
 
