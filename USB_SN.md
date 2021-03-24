@@ -18,7 +18,7 @@ like, ![image](https://user-images.githubusercontent.com/33517160/110237377-ca1b
 ![image](https://user-images.githubusercontent.com/33517160/110237435-254dd800-7f4d-11eb-8f13-ebf44c1702e0.png) 
 
 when you put them as 1 text the length is 32 tried that but didin't work, thats when i tried to read the descreption again
-they said serial number.
+they said **serial number**.
 
 ## Solution
 Find/Search for the keyword `SANDISK` you will find the usb stick 
