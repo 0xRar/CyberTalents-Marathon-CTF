@@ -5,7 +5,7 @@ Level: `Medium`
 Points: `100`
 Category: `Digital Forensics`
 
-## Challenge Descreption
+## Challenge Description
 >> The investigator needs to find the serial number of SANDISK USB 
 >> flash drive which was connected to the machine he investigates.
 
