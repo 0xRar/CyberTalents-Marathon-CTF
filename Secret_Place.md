@@ -5,7 +5,7 @@
 - Points: `50`
 - Category: `Malware Reverse Engineering`
 
-## Challenge Descreption
+## Challenge Description
 >> There is a secret place in every executable.
 
 ## First Look
