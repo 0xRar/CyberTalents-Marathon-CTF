@@ -6,6 +6,6 @@
 - Category: `Digital Forensics`
 
 
-## Challenge Descreption
+## Challenge Description
 >> john , can you crack this one ??
 
