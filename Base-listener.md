@@ -4,7 +4,7 @@
 - Points: `50`
 - Category: `Cryptography`
 
-## Challange Descreption
+## Challange Description
 >> Can you decode this weird string 
 >> BDkPUNzMYDDLsPLP9V4J75dNNCmWb5TXf5kdXNh6CP7zb6mr
 
