@@ -31,6 +31,8 @@ we will use the `/usr/share/john/pdf2john.pl` john tool to get the pdf hash,
 
 `perl /usr/share/john/pdf2john.pl sec2.pdf`, after doing that we get the pdf hash
 
-``$pdf$2*3*128*-3904*1*16*9db3c812d6a0c898af95886f6d043eaa*32*44041e94111587f666acac56c794a44f00000000000000000000000000000000*32*1df5734e447cc82abf998e9befa24a81ca624be57d6759bb964b7c41ebc6a03a``
+- hash:``$pdf$2*3*128*-3904*1*16*9db3c812d6a0c898af95886f6d043eaa*32*44041e94111587f666acac56c794a44f00000000000000000000000000000000*32*1df5734e447cc82abf998e9befa24a81ca624be57d6759bb964b7c41ebc6a03a``
 
+i saved my hash in a file called `sec2.hash`, lets crack the hash using brute force
 
+`john --wordlist= /usr/share/wordlists/rockyou.txt`
