@@ -36,3 +36,5 @@ we will use the `/usr/share/john/pdf2john.pl` john tool to get the pdf hash,
 i saved my hash in a file called `sec2.hash`, lets crack the hash using brute force
 
 `john --wordlist= /usr/share/wordlists/rockyou.txt`
+
+i found a match but i tried to unlock the pdf i couldn't, i didint finish this one.
