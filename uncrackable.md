@@ -24,7 +24,7 @@ after extracting the tar we get a pdf file called: `sec2.pdf`, when we try to op
 we can't because its encrypted with a pass.
 
 
-## Solution
+## Solution (Not Completed)
 the challenge description is very useful for the solution,
 
 we will use the `/usr/share/john/pdf2john.pl` john tool to get the pdf hash,
