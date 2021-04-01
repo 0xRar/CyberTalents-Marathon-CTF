@@ -1,7 +1,9 @@
-![image](https://user-images.githubusercontent.com/33517160/113299215-5085d600-9305-11eb-8da7-971c616b0a37.png)
-
-
 # Writeups from cybertalents, Marathon CTF 2021.
+
+### My Points:
+![image](https://user-images.githubusercontent.com/33517160/113299570-b07c7c80-9305-11eb-8108-3d81d0b26cef.png)
+
+
 
 ## Platform URL: https://cybertalents.com/
 
