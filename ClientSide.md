@@ -16,6 +16,28 @@ First of all this is cursed, and really bad code lol
 
 ## Solution
 All you have to do is to take the value of the `checkpass.substring`
-take the values from `(0,split)` up to `(split*8, split*9)` and you got you're flag.
+take the values from `(0,split)` up to `(split*8, split*9)` and you got you're flag,
+
+or you can make a simple script like this:
+
+Script By [codeaholikid](https://twitter.com/codaholikid)
+```
+#!/usr/bin/env python3
+# @author: codaholikid
+
+password = [0]*9
+
+password[0] = 'd!}'
+password[1] = '4dd'
+password[2] = '$_b'
+password[3] = '3_i'
+password[4] = '$id'
+password[5] = 'nt_'
+password[6] = 'li3'
+password[7] = 'g{C'
+password[8] = 'fla'
+
+print("".join(password[::-1]))
+```
 
 Flag: `flag{Cli3nt_$id3_i$_b4ddd!}`
