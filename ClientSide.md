@@ -20,7 +20,7 @@ take the values from `(0,split)` up to `(split*8, split*9)` and you got you're f
 
 or you can make a simple script like this:
 
-Script By [codeaholikid](https://twitter.com/codaholikid)
+Script By [codaholikid](https://twitter.com/codaholikid)
 ```
 #!/usr/bin/env python3
 # @author: codaholikid
